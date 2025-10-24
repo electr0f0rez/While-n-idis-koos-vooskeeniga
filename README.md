@@ -1,3 +1,4 @@
+```csharp
 Console.WriteLine("joonistan sulle kolmnurga");
 int kolmnurgaSuurus = int.Parse(Console.ReadLine());
 
